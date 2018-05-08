@@ -1,8 +1,8 @@
 language: node_js
 node_js:
-  - "7"
-  - "8"
-  - "node"
+- '7'
+- '8'
+- node
 deploy:
   provider: npm
   email: antoine@subforce-solutions.com
@@ -10,4 +10,4 @@ deploy:
     tags: true
     repo: ajouve/html2docx
   api_key:
-    secure: VLpdBnPSBrVYcoHAqtfavClfVbvfmK6qQvD5AatumzR3060eZ+AwklxZt/HM1MCfyBzAhH77UWDWglcrvFnqwRDrB8vnAP4Nb2x6LcCo+Ui+oda7i0oBfdDbLsRYsXT8hAQ1Nh8URDn/E6DxlTQaWuR2rsvGEbVS0hm/EHGsJX5Z9pPzQeGOkVqPGCsTZu+onboRaMkZxPjA/z16fdaF1sKaoU3J0Tye68SttOFVxNN7VsklDDTTya33+TzVT+sZYlyem2CGZRPqG+ZCjOhDjVusNlMek4j1xityAgR5q+5dBpkEU8B2zlJZQ0FPGKkpELdKgRdGwASItubfit1W/gjo0e/Nuo9Zr+FZ8PMuQnPxHjJEQcAdf8KjYIWdLB1/dBQYuJMJP55ghyGL2PjNJPLDSEGv6VvuYk+jNfy7mMsmmiWooSp3NVhcMk5y0v9RVQfzshseBcxmof4trtCszxEDE/10lsswvY2J55ixYab/tlzfHrSt0RDX/Z81cxrh1iZqoME56JlMKdSsMmkIGmCwD1S68W+ZmbxvUWXlxV6nXF/bWzyIFy1xEwlay/Dcipi+UPIE6iIlnKf+pWS9OxrHE9XFcAE1pJLfwFwkMPckTuAtRhnFWZ+AHMjq4qKIHp+tymevTYrfW5NhRdPD2y2DpCtZ//p2ahUeUZbyLAc=
+    secure: ZfYuC5Bsnh7jwYHQI1CoOWs6zT6hdHR44PhhmNFIU1DF/EsxQeBkTYqxUS0xBmM5/R+/v5itlQmbb2i6pcrDzhegZKGlVUJ/oXmVBRZAdk4LTS9C6uTEI7ibodgIs1PExmrKcu+UNj2CtbzjG86xxtRPN6BV++GPCVaBDsam6Pcsl8b/cz2Dq2Wh+7MxdspgD2dDzdeTxcPaFmX+naMEK/b7nEgFQphKMEuQv7Ah3pxMs0A7S/rMg1sbmpKoQ6pkLvnn9QilYLHlNThiiFMaebkpCa0DbPdmj8x8vIEJDEYdrD6ERO/XtueWjxF96ViabXdan/JxIgjBeva9t+m7P5+x1QEvIRqXVU8f2vgKlNTvLBdBNooKMoXqN8HOO/Xz+EcnzcZul98+eaQvXfYYZ2bLZJgzxqlcMwqPm/BxLL5TjdvMYc+B0pQC6djHm6fWtcALfXEQ9kOkKHhP+8nJkA1wP3Cfx7wFFQr59/94MaATh+SVCbHgaINQd0CV0kodZ00gZBnWIHIwkX4oDiSrkudI0qJVNcMizhwLRchwk2lgb/XVCRLfHYV+H46ONPe6yS8qadvQ6o5PZ6Hxawr+v0xk68arMy7bLGwdFRW92MYNO9y3bmyv/jU3QFSGn0msucr6loGOcEEuzv5reszlmaKe1Pvwp+DglTexPNMzPp4=
